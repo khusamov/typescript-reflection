@@ -1,6 +1,5 @@
-# typescript-reflection
-
-Эксперименты с рефлексией для TypeScript.
+Эксперименты с рефлексией для TypeScript
+========================================
 
 typescript-rtti-rollup
 ----------------------
@@ -16,6 +15,8 @@ tst-reflect-rollup
 ```
 Uncaught ReferenceError: require is not defined
 ```
+
+Если typescript-rtti себя не оправдает, то надо будет завести заявку.
 
 tst-reflect
 -----------
