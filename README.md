@@ -1,5 +1,21 @@
 # typescript-reflection
-Эксперименты с рефлексией для TypeScript
+
+Эксперименты с рефлексией для TypeScript.
+
+typescript-rtti-rollup
+----------------------
+
+Ура! Это наконец-то работает!
+Генерируется код Адаптера для IoC.
+
+tst-reflect-rollup
+------------------
+
+И тут ошибка!
+
+```
+Uncaught ReferenceError: require is not defined
+```
 
 tst-reflect
 -----------
